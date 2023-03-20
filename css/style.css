@@ -443,7 +443,7 @@ img {
 
 .footer-soc-list-list{
     display: flex;
-    justify-content: space-between;
+    gap: 16px;
     margin-top: 16px;
     
 }
